@@ -1,10 +1,7 @@
 ### 1. Things I would do if I had more time
 
-1. Create mapping for every URL in Coinmarketcap
-2. Expand ExchangeApiService. Add more capabilities with better models. Using models instead of Dictionary for Query
-   Params
-3. Expand RestHelper (add more capabilities like Post)
-4. Get a list of all crypto currencies (as metadata) and cache it so we can handle errors better, get better user
+1. Create mapping for every URL for Coin Market Cap API
+2. Get a list of all crypto currencies (as metadata) and cache it so we can handle errors better, get better user
    experience (users do not have to wait for request to finish if they typed a wrong crypto currency symbol)
 
 ### 2. Most useful feature that was added to C# (9.0 or higher) is the target typed new expressions
